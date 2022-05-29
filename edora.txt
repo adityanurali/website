@@ -1,0 +1,9 @@
+#hostname
+#hostname:443
+#hostname:443
+www.twitter.com
+www.facebook.com
+www.instagram.com
+www.fbcdn.net
+api.instagram.com
+
