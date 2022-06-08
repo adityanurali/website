@@ -1,0 +1,16 @@
+.animasi {
+  color: #008000; 
+  font-family:sans-serif;
+  font-weight:lighter;
+  font-size: 1em;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 30em;
+  animation: keyframes 5s steps(500) infinite; 
+}
+
+@keyframes keyframes{ 
+  
+  from{ width: 0px;} 
+  
+} 
