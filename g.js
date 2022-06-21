@@ -5,7 +5,7 @@ var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
 if ( username == "aditya" && password == "20012000"){
 alert ("Login successfully");
-window.location = "/storage/emulated/0/scripts/bakul-sontong.html"; // Redirecting to other page.
+window.location = "www.facebook.com"; // Redirecting to other page.
 return false;
 }
 else{
